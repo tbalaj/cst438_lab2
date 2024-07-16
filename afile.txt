@@ -1,11 +1,15 @@
 line 1
 v1 changes developer 1
+developer 1 new line 1
+developer 2 new line 2
 line 2
 line 3
 line 4
 line 5
 v1 changes developer 2
+developer 2 new line 3
+developer 2 new line 4
 line 6
 line 7
 line 8
-line 9
+This file was modified by developers 1 and 2
